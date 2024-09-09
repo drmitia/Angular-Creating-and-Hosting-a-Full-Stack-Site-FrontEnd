@@ -1,6 +1,6 @@
 # BuyAndSell
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7, Node.js version 12.22.12.
 
 ## Development server
 
@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Detailed Notes
+[Notes Part1](https://docs.google.com/document/d/1NcOW9YWqDTdlTzjCWV-TMZW5jaFBmB_8Z3pmWiRdOBc/edit?usp=sharing)
+[Notes Part3](https://docs.google.com/document/d/1SmNc9W0e6R4JXLcjl-XHC2mtN555hj6l5h2pQtp-g1w/edit?usp=sharing)
